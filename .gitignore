@@ -6,6 +6,9 @@
 # Only include Java source files
 !*.java
 
+# Ignore build.xml files
+build.xml
+
 # Ignore the build directories and files
 build/
 lib/
