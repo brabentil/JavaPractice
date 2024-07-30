@@ -1,0 +1,13 @@
+
+# But not these directories
+!src/
+!src/**/
+
+# Only include Java source files
+!*.java
+
+# Ignore the build directories and files
+build/
+lib/
+nbproject/
+manifest.mf
